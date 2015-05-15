@@ -1,0 +1,5 @@
+For this project, I relied on the following reference sites when I got stuck.
+
+The R Documentation Repository - http://www.RDocumentation.org
+The Documentation for ggplot2 - http://docs.ggplot2.org
+Cookbook for R - http://www.cookbook-r.com
